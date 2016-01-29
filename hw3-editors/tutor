@@ -6,5 +6,6 @@ Append: a
 Quit: q!
 Save and Quit: wq
 Save w/o Quitting: w
+Fix whitespace: 1G=G
 
 Press ESC to return to normal mode in vim.
