@@ -1,0 +1,7 @@
+Learned about modifying files using sed.
+
+sed 's/word_to_replace/word_you_want/FLAGS' file.name
+
+Flags:
+	1. g - applies replacement to all words, not just first in line
+	2. i - applies replacement disregarding upper/lower case
