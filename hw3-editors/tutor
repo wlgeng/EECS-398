@@ -1,0 +1,10 @@
+I am practing inserting and deleting text in vim.
+
+Movement: hjkl
+Insert: i
+Append: a
+Quit: q!
+Save and Quit: wq
+Save w/o Quitting: w
+
+Press ESC to return to normal mode in vim.
